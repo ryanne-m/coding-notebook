@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Converting .bam to .fastq &#8212; Lamba Lab Notebook</title>
+    <title>Notes &#8212; Lamba Lab Notebook</title>
   
   
   
@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -173,7 +173,7 @@
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Converting .bam to .fastq</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Notes</a></li>
 </ul>
 
     </div>
@@ -359,7 +359,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Converting .bam to .fastq</h1>
+    <h1>Notes</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -369,7 +369,8 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">11/14/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#converting-bam-to-fastq-11-14-2024">Converting .bam to .fastq 11/14/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 </ul>
             </nav>
         </div>
@@ -381,10 +382,10 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="converting-bam-to-fastq">
-<h1>Converting .bam to .fastq<a class="headerlink" href="#converting-bam-to-fastq" title="Link to this heading">#</a></h1>
-<section id="id1">
-<h2>11/14/2024<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+  <section class="tex2jax_ignore mathjax_ignore" id="notes">
+<h1>Notes<a class="headerlink" href="#notes" title="Link to this heading">#</a></h1>
+<section id="converting-bam-to-fastq-11-14-2024">
+<h2>Converting .bam to .fastq 11/14/2024<a class="headerlink" href="#converting-bam-to-fastq-11-14-2024" title="Link to this heading">#</a></h2>
 <p>First, one of the bam files was loaded into igv using hg38 as the reference genome to determine strandedness. Due to the sense and antisense strands being intersperced, these mapped reads are part of a paired-end unstranded library. Files were then converted from bam to fastq format using samtools v.1.21:</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -409,6 +410,13 @@ document.write(`
 </div>
 </div>
 <p>Files will be kept on HiPerGator due to size constraints.</p>
+</section>
+<section id="using-jupyter-notebook-11-15-2024">
+<h2>Using Jupyter Notebook 11/15/2024<a class="headerlink" href="#using-jupyter-notebook-11-15-2024" title="Link to this heading">#</a></h2>
+<p>Whenever you want to update the coding notebook, use:
+jb build .
+Then:
+ghp-import -n -p -f _build/html</p>
 </section>
 </section>
 
@@ -467,7 +475,8 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">11/14/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#converting-bam-to-fastq-11-14-2024">Converting .bam to .fastq 11/14/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 </ul>
   </nav></div>
 
