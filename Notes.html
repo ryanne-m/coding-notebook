@@ -371,6 +371,7 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#converting-bam-to-fastq-11-14-2024">Converting .bam to .fastq 11/14/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 </ul>
             </nav>
         </div>
@@ -417,6 +418,22 @@ document.write(`
 jb build .
 Then commit to Github and use:
 ghp-import -n -p -f _build/html</p>
+</section>
+<section id="using-poetry-to-create-a-package-11-18-2024">
+<h2>Using Poetry to Create a Package 11/18/2024<a class="headerlink" href="#using-poetry-to-create-a-package-11-18-2024" title="Link to this heading">#</a></h2>
+<p>Whenever you want to create a package, a build backend is required which will make a source distribution and build distribution that you need. The build backend I have decided to use is Poetry, which is considered the up-and-coming platform. Poetry requires the following file layout:</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">poetry</span><span class="o">-</span><span class="n">demo</span>
+<span class="err">├──</span> <span class="n">pyproject</span><span class="o">.</span><span class="n">toml</span>
+<span class="err">├──</span> <span class="n">README</span><span class="o">.</span><span class="n">md</span>
+<span class="err">├──</span> <span class="n">poetry_demo</span>
+    <span class="err">└──</span> <span class="fm">__init__</span><span class="o">.</span><span class="n">py</span>
+    <span class="err">└──</span> <span class="n">demo</span><span class="o">.</span><span class="n">py</span>
+</pre></div>
+</div>
+</div>
+</div>
 </section>
 </section>
 
@@ -477,6 +494,7 @@ ghp-import -n -p -f _build/html</p>
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#converting-bam-to-fastq-11-14-2024">Converting .bam to .fastq 11/14/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 </ul>
   </nav></div>
 
