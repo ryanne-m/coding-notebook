@@ -434,6 +434,16 @@ ghp-import -n -p -f _build/html</p>
 </div>
 </div>
 </div>
+<p>To get more information, visit <a class="reference external" href="https://python-poetry.org/docs/">the poetry website</a>. You will need to pipx install poetry.</p>
+<p>First, you will want to do a test run of your package upload using TestPyPi. Create a TestPyPi account and verify it to upload packages. Go to the account settings and create an API token. In the termminal, add the TestPyPi repository to your Poetry configuration:</p>
+<p>poetry config repositories.testpypi <a class="reference external" href="https://test.pypi.org/legacy/">https://test.pypi.org/legacy/</a></p>
+<p>Then, add your credentials to Poetry:</p>
+<p>poetry config pypi-token.testpypi your-token-here</p>
+<p>From now on, you do not need to repeat the steps above. Only the below steps will need to be repeated for each upload to TestPyPi. Poetry will create a dist folder containing your source and build distribution from:</p>
+<p>poetry build</p>
+<p>Finally, use the following command to upload the package:</p>
+<p>poetry publish -r testpypi –build</p>
+<p>Now it should upload to your projects within TestPyPi. At the top of the page, there is code you can copy that will be used to pip install the package on a system. Note that the pip install here uses a webiste link because this is TestPyPi, and not the real PyPi. Another note- every time you want to re-upload the package, you must change the version number within pyproject.toml or else it will not work.</p>
 </section>
 </section>
 
