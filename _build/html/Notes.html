@@ -373,6 +373,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#uploading-files-from-a-third-party-site-to-hipergator-11-18-2024">Uploading Files from a Third-Party Site to HiPerGator 11/18/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml">List of Cryptic Proteins in AML</a></li>
 </ul>
             </nav>
         </div>
@@ -499,6 +500,329 @@ document.write(`
 </div>
 <p>This will open Chrome within the console. Navigate to the Chrome settings and change the default download location to the HiPerGator folder you are in. Then, navigate to the third-party site such as Dropbox. Whatever you download will be downloaded to the HiPerGator folder. Note- downloading all the files from Dropbox at once creates a zipped file that won’t want to open. It is best to download these one at a time until a better solution is found. For more information about uploading files to HiPerGator visit <a class="reference external" href="https://help.rc.ufl.edu/doc/Transfer_Data">this website</a>.</p>
 </section>
+<section id="list-of-cryptic-proteins-in-aml">
+<h2>List of Cryptic Proteins in AML<a class="headerlink" href="#list-of-cryptic-proteins-in-aml" title="Link to this heading">#</a></h2>
+<p>Obtained acute myeloid leukemia specific alternatively spliced protein isoforms from the <a class="reference external" href="https://ngdc.cncb.ac.cn/ascancer/home">ASCancer Atlas</a>.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;datasets/Experimentally_supported_AS_events (1).csv&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>_id</th>
+      <th>has_oncoprint</th>
+      <th>event_id</th>
+      <th>as_model_id</th>
+      <th>cancer_name</th>
+      <th>tcga_project_id</th>
+      <th>gene_name</th>
+      <th>hgnc_id</th>
+      <th>ensembl_id</th>
+      <th>chr</th>
+      <th>...</th>
+      <th>external_intervention</th>
+      <th>regulatory_mechanism</th>
+      <th>regulatory_gene</th>
+      <th>biological_function</th>
+      <th>functional_description</th>
+      <th>year</th>
+      <th>pubmed_id</th>
+      <th>journal</th>
+      <th>title</th>
+      <th>cancer_names</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>="62f8e2a5a2bd957939763c39"</td>
+      <td>="no"</td>
+      <td>="TMEM14C_chr6_+_A3SS_10723148:10723474:107247...</td>
+      <td>="TMEM14C_chr6_+_A3SS_10723474:10724789:107248...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="TMEM14C"</td>
+      <td>="20952"</td>
+      <td>="ENSG00000111843"</td>
+      <td>="chr6"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SF3B1(K700E)"</td>
+      <td>="Cell Growth, Cell Survival"</td>
+      <td>="Delivery of synthetic intron-containing HSV–...</td>
+      <td>="2022"</td>
+      <td>="35241838"</td>
+      <td>="Nat Biotechnol"</td>
+      <td>="Synthetic introns enable splicing factor mut...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>="62f8e2a5a2bd957939763c41"</td>
+      <td>="yes"</td>
+      <td>="INTS3_chr1_+_IR_153719433:153719546:15371975...</td>
+      <td>="INTS3_chr1_+_IR_153719546:153719755"</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="INTS3"</td>
+      <td>="26153"</td>
+      <td>="ENSG00000143624"</td>
+      <td>="chr1"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SRSF2(P95H), IDH2(R140Q)"</td>
+      <td>="DNA Repair, Cell Differentiation"</td>
+      <td>="INTS3 depletion in these cells significantly...</td>
+      <td>="2019"</td>
+      <td>="31578525"</td>
+      <td>="Nature"</td>
+      <td>="Coordinated alterations in RNA splicing and ...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>="62f8e2a5a2bd957939763c44"</td>
+      <td>="no"</td>
+      <td>="CSF3R_chr1_-_A3SS_36931644:36932428:36931644...</td>
+      <td>="CSF3R_chr1_-_A3SS_36931644:36932428:36931644...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="CSF3R"</td>
+      <td>="2439"</td>
+      <td>="ENSG00000119535"</td>
+      <td>="chr1"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation, expression"</td>
+      <td>="SRSF2"</td>
+      <td>="Cell Proliferation"</td>
+      <td>="CSF3R is a target of SRSF2 mutations, which ...</td>
+      <td>="2020"</td>
+      <td>="31462738"</td>
+      <td>="Leukemia"</td>
+      <td>="Altered expression of CSF3R splice variants ...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>="62f8e2a5a2bd957939763c66"</td>
+      <td>="no"</td>
+      <td>="KAT5_chr11_+_ES_65480393:65480529:65480819:6...</td>
+      <td>="KAT5_chr11_+_ES_65480529:65480819:65480974:6...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="KAT5"</td>
+      <td>="5275"</td>
+      <td>="ENSG00000172977"</td>
+      <td>="chr11"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="expression"</td>
+      <td>="PRMT5"</td>
+      <td>="DNA Damage, DNA Repair, Cell Cycle"</td>
+      <td>="PRMT5 depletion or inhibition induces aberra...</td>
+      <td>="2018"</td>
+      <td>="30184499"</td>
+      <td>="Cell Rep"</td>
+      <td>="PRMT5 regulates DNA repair by controlling th...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>="62f8e2a5a2bd957939763cbe"</td>
+      <td>="yes"</td>
+      <td>="MECOM_chr3_-_A3SS_168810746:168810872:168810...</td>
+      <td>="MECOM_chr3_-_A3SS_168810746:168810872:168810...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="MECOM"</td>
+      <td>="3498"</td>
+      <td>="ENSG00000085276"</td>
+      <td>="chr3"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SF3B1(K700E/ K666N/G740E)"</td>
+      <td>="Cell Differentiation, Self-renewal"</td>
+      <td>="A novel EVI1 splice isoform is frequently ex...</td>
+      <td>="2022"</td>
+      <td>="35709354"</td>
+      <td>="Blood"</td>
+      <td>="Aberrant EVI1 splicing contributes to EVI1-r...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>="62f8e2a6a2bd9579397643e1"</td>
+      <td>="no"</td>
+      <td>="BCL2L1_chr20_-_A5SS_30252255:30253889:303094...</td>
+      <td>="BCL2L1_chr20_-_A5SS_30253889:30309458:303101...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="BCL2L1"</td>
+      <td>="992"</td>
+      <td>="ENSG00000171552"</td>
+      <td>="chr20"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, expression"</td>
+      <td>="RBM25"</td>
+      <td>="Tumor Growth, Apoptosis"</td>
+      <td>="Reduction in apoptosis of RBM25 KD U937 cell...</td>
+      <td>="2019"</td>
+      <td>="30635567"</td>
+      <td>="Nat Commun"</td>
+      <td>="The splicing factor RBM25 controls MYC activ...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>="62f8e2a6a2bd9579397643f9"</td>
+      <td>="no"</td>
+      <td>="CD33_chr19_+_ES_51728354:51728411:51728474:5...</td>
+      <td>="CD33_chr19_+_ES_51728411:51728474:51728854:5...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="CD33"</td>
+      <td>="1659"</td>
+      <td>="ENSG00000105383"</td>
+      <td>="chr19"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, expression"</td>
+      <td>="SRSF2"</td>
+      <td>="Cell Differentiation, Cell Growth"</td>
+      <td>="The skipping of exon2, resulting in the shor...</td>
+      <td>="2017"</td>
+      <td>="28644774"</td>
+      <td>="J Clin Oncol"</td>
+      <td>="CD33 splicing polymorphism determines gEMTuz...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>="62f8e2a6a2bd9579397643fa"</td>
+      <td>="yes"</td>
+      <td>="MAP3K7_chr6_-_A3SS_91269795:91269933:9126979...</td>
+      <td>="MAP3K7_chr6_-_A3SS_91269795:91269933:9126979...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="MAP3K7"</td>
+      <td>="6859"</td>
+      <td>="ENSG00000135341"</td>
+      <td>="chr6"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SF3B1(K700E)"</td>
+      <td>="Cell Growth, Cell Survival"</td>
+      <td>="Delivery of synthetic intron-containing HSV–...</td>
+      <td>="2022"</td>
+      <td>="35241838"</td>
+      <td>="Nat Biotechnol"</td>
+      <td>="Synthetic introns enable splicing factor mut...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>="62f8e2a6a2bd957939764407"</td>
+      <td>="no"</td>
+      <td>="MTERFD3_chr12_-_IR_107378893:107379003:10738...</td>
+      <td>="MTERFD3_chr12_-_IR_107379003:107380747"</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="MTERFD3"</td>
+      <td>="30779"</td>
+      <td>="ENSG00000120832"</td>
+      <td>="chr12"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SF3B1(K700E)"</td>
+      <td>="Cell Growth, Cell Survival"</td>
+      <td>="Delivery of synthetic intron-containing HSV–...</td>
+      <td>="2022"</td>
+      <td>="35241838"</td>
+      <td>="Nat Biotechnol"</td>
+      <td>="Synthetic introns enable splicing factor mut...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>="62f8e2a6a2bd957939764408"</td>
+      <td>="no"</td>
+      <td>="ORAI2_chr7_+_A3SS_102074017:102074108:102076...</td>
+      <td>="ORAI2_chr7_+_A3SS_102074108:102076672:102076...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+      <td>="TCGA-LAML"</td>
+      <td>="ORAI2"</td>
+      <td>="21667"</td>
+      <td>="ENSG00000160991"</td>
+      <td>="chr7"</td>
+      <td>...</td>
+      <td>="-"</td>
+      <td>="splicing factor, mutation"</td>
+      <td>="SF3B1(K700E)"</td>
+      <td>="Cell Growth, Cell Survival"</td>
+      <td>="Delivery of synthetic intron-containing HSV–...</td>
+      <td>="2022"</td>
+      <td>="35241838"</td>
+      <td>="Nat Biotechnol"</td>
+      <td>="Synthetic introns enable splicing factor mut...</td>
+      <td>="Acute Myeloid Leukemia"</td>
+    </tr>
+  </tbody>
+</table>
+<p>68 rows × 43 columns</p>
+</div></div></div>
+</div>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -560,6 +884,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#uploading-files-from-a-third-party-site-to-hipergator-11-18-2024">Uploading Files from a Third-Party Site to HiPerGator 11/18/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml">List of Cryptic Proteins in AML</a></li>
 </ul>
   </nav></div>
 
