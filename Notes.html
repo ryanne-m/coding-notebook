@@ -60,6 +60,7 @@
     <script>DOCUMENTATION_OPTIONS.pagename = 'Notes';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Proteomics" href="Proteomics.html" />
     <link rel="prev" title="Ryanne’s Coding Notebook" href="intro.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -174,6 +175,7 @@
         </ul>
         <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Proteomics.html">Proteomics</a></li>
 </ul>
 
     </div>
@@ -373,7 +375,8 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#uploading-files-from-a-third-party-site-to-hipergator-11-18-2024">Uploading Files from a Third-Party Site to HiPerGator 11/18/2024</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml">List of Cryptic Proteins in AML</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml-12-06-2024">List of Cryptic Proteins in AML 12/06/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#adding-to-path-and-installing-from-test-pypi-on-zsh-12-12-2024">Adding to Path and Installing from Test PyPi on .zsh 12/12/2024</a></li>
 </ul>
             </nav>
         </div>
@@ -500,8 +503,8 @@ document.write(`
 </div>
 <p>This will open Chrome within the console. Navigate to the Chrome settings and change the default download location to the HiPerGator folder you are in. Then, navigate to the third-party site such as Dropbox. Whatever you download will be downloaded to the HiPerGator folder. Note- downloading all the files from Dropbox at once creates a zipped file that won’t want to open. It is best to download these one at a time until a better solution is found. For more information about uploading files to HiPerGator visit <a class="reference external" href="https://help.rc.ufl.edu/doc/Transfer_Data">this website</a>.</p>
 </section>
-<section id="list-of-cryptic-proteins-in-aml">
-<h2>List of Cryptic Proteins in AML<a class="headerlink" href="#list-of-cryptic-proteins-in-aml" title="Link to this heading">#</a></h2>
+<section id="list-of-cryptic-proteins-in-aml-12-06-2024">
+<h2>List of Cryptic Proteins in AML 12/06/2024<a class="headerlink" href="#list-of-cryptic-proteins-in-aml-12-06-2024" title="Link to this heading">#</a></h2>
 <p>Obtained acute myeloid leukemia specific alternatively spliced protein isoforms from the <a class="reference external" href="https://ngdc.cncb.ac.cn/ascancer/home">ASCancer Atlas</a>.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -823,6 +826,26 @@ document.write(`
 </div></div></div>
 </div>
 </section>
+<section id="adding-to-path-and-installing-from-test-pypi-on-zsh-12-12-2024">
+<h2>Adding to Path and Installing from Test PyPi on .zsh 12/12/2024<a class="headerlink" href="#adding-to-path-and-installing-from-test-pypi-on-zsh-12-12-2024" title="Link to this heading">#</a></h2>
+<p>To add to the path on .zsh, use the following command:</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">#$ path+=(&#39;/path/to/directory&#39;)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>To install a package from Test PyPi that will not throw the error .zsh: permission denied, copy the install command from the Test PyPi page and add the –user tag to have it install in an accessible directory, like this:</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">#$ pip install --user -i https://test.pypi.org/simple/ prettykap</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>If you are trying to install the latest version, for now I know that using pip uninstall prettykap and then reinstalling adding = the new version at the end will work. I am sure I will find a better solution eventually.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -864,6 +887,15 @@ document.write(`
         <p class="prev-next-title">Ryanne’s Coding Notebook</p>
       </div>
     </a>
+    <a class="right-next"
+       href="Proteomics.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Proteomics</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
 </div>
                 </footer>
               
@@ -884,7 +916,8 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook-11-15-2024">Using Jupyter Notebook 11/15/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-poetry-to-create-a-package-11-18-2024">Using Poetry to Create a Package 11/18/2024</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#uploading-files-from-a-third-party-site-to-hipergator-11-18-2024">Uploading Files from a Third-Party Site to HiPerGator 11/18/2024</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml">List of Cryptic Proteins in AML</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#list-of-cryptic-proteins-in-aml-12-06-2024">List of Cryptic Proteins in AML 12/06/2024</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#adding-to-path-and-installing-from-test-pypi-on-zsh-12-12-2024">Adding to Path and Installing from Test PyPi on .zsh 12/12/2024</a></li>
 </ul>
   </nav></div>
 
