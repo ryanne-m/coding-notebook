@@ -6,3 +6,4 @@ root: intro
 chapters:
 - file: Notes
 - file: Proteomics
+- file: AberrantRNAseq
