@@ -1,0 +1,234 @@
+﻿Fusion_pair,5Gene_Junction,3Gene_Junction,PMID,Disease
+ACS2-ETV6,chr10:114186015 (exon:19),chr12:11905383 (exon:2),10502316,acute myeloid leukemia(AML)
+ACS2-ETV6,chr10:114170341 (exon:9),chr12:11992073 (exon:3),10502316,acute myeloid leukemia(AML)
+ACS2-ETV6,chr10:114135955 (exon:1),chr12:11905383 (exon:2),10502316,acute myeloid leukemia(AML)
+ACSL1-ETV6,,,10502316,acute myeloid leukemia
+AFDN-KMT2A,,,8242616,acute myelogenous leukemia
+AFX-KMT2A,,,9010221,acute myeloid leukemia(AML)
+ARHGAP26-KMT2A,,,12527918,acute myeloid leukemia
+ARHGEF12-KMT2A,,chr11:118348681 (exon:5),10681437,acute myeloid leukemia
+ARNT-ETV6,chr1:150814899 (exon:5),chr12:12022357 (exon:5),10829078,acute myeloid leukemia
+BCL11B-TLX3,,,21225930,acute myelogenous leukemia
+BCOR-RARA,chrX:39914766 (exon:12),chr17:38504567 (exon:3),20807888,acute promyelocytic leukemia
+BCOR-RARA,chrX:39914766 (exon:12),chr17:38504567 (exon:3),25790901,acute promyelocytic leukemia
+C3ORF27-MECOM,,,,acute myeloid leukemia
+CABIN1-DEK,,,1549122,acute myeloid leukemia
+CBFA2T3-GLIS2,,,28109323,acute myeloid leukemia(AML)
+CBFB-MYH11,,,,"acute myeloid leukemia, chronic myeloid leukemia"
+CBFB-MYH11,chr16:67116211 (exon:5),chr16:15818656 (exon:31),1.55857E+14,"acute myeloid leukemia, acute myelogenous leukemia"
+CBFB-MYH11,chr16:67116115 (exon:5),chr16:15854515 (exon:12),17286448,"acute myeloid leukemia(AML), Unclassifiable MDS"
+CBFB-MYH11,chr16:67116115 (exon:5),chr16:15876334 (exon:7),17286448,"acute myeloid leukemia(AML), Unclassifiable MDS"
+CBFB-MYH11,chr16:67116115 (exon:5),chr16:15872700 (exon:8),17286448,"acute myeloid leukemia(AML), Unclassifiable MDS"
+CBFbeta-MYH11,,,11150605,acute monocytic leukemia(ALM)
+CBFbeta-MYH11,,,12040450,"acute myeloid leukemia(AML), MRD, MRD(minimal residual disease), acute myeloid leukemia(AML)"
+CBL-KMT2A,,,12696071,acute myeloid leukemia
+CFAP46-MSI2,chr10:134641761,chr17:55401735,25058373,acute myeloid leukemia
+CHD1-RUNX1,chr5:98208259 (exon:26),chr21:36231875 (exon:6),25879624,acute myeloid leukemia(AML)
+CHD1-RUNX1,chr5:98209427 (exon:25),chr21:36231875 (exon:6),25879624,acute myeloid leukemia(AML)
+CHIC2-ETV6,,,,acute myeloid leukemia
+CLP1-MLLT10,,,8896421,acute monoblastic leukemia
+CREBBP-KAT6A,,,,acute myeloid leukemia
+CREBBP-KAT6B,,,,acute myelogenous leukemia
+CREBBP-KMT2A,chr16:3900297 (exon:2),chr11:118359328 (exon:11),1.70471E+14,acute myelogenous leukemia
+DEK-CABIN1,,,1549122,acute myeloid leukemia
+DEK-NUP214,,,,acute myeloid leukemia
+DEK-NUP214,,,,acute myeloid leukemia
+DEK-NUP214,,,2370860,acute myeloid leukemia
+DHH-RHEBL1,chr12:49485172 (exon:2),chr12:49462889 (exon:2),24127550,acute myeloid leukemia
+ELF4-ERG,chrX:129215513 (exon:2),chr21:39817544 (exon:2),16303180,acute myelogenous leukemia
+ETS2-ERG,,,22570408,acute myeloid leukemia(AML)
+ETV6-ABL2,chr12:12022903 (exon:5),chr1:179102509 (exon:2),10706884,acute myeloid leukemia
+ETV6-ABL2,chr12:12022903 (exon:5),chr1:179102509 (exon:2),"10590083,10706884",acute myeloid leukemia
+ETV6-ACSL1,,,10502316,acute myeloid leukemia
+ETV6-ACSL5,chr12:11803094 (exon:1),chr10:114154675 (exon:2),10502316,acute myelogenous leukemia
+ETV6-ARNT,chr12:12006495 (exon:4),chr1:150789678 (exon:17),10829078,acute myeloid leukemia
+ETV6-FANCB,chr12:12022357 (exon:5),chrX:14877456 (exon:13),21401966,acute myeloid leukemia(AML)
+ETV6-FRK,chr12:12006360 (exon:4),chr6:116289902 (exon:3),15611931,"leukemia, acute myeloid leukemia(AML)"
+ETV6-HOXD1,,,11782354,acute myeloid leukemia
+ETV6-LPXN,chr12:12006360 (exon:4),chr11:58338186 (exon:2),26542893,acute myeloid leukemia
+ETV6-LYN,chr12:12022357 (exon:5),chr8:56866390 (exon:8),29153093,"acute myeloid leukemia(AML), myeloproliferative neoplasm, epithelioma, leukemia, acute myeloid leukemia(AML)"
+ETV6-MECOM,,,,"acute myeloid leukemia, acute myeloid leukemia, chronic myeloid leukemia"
+ETV6-PGAP3,,,12661008,acute myeloid leukemia
+ETV6-RUNX1,chr12:12022903 (exon:5),chr21:36265260 (exon:3),"23254331,15179033,29052866",acute myelogenous leukemia
+EVI1-CDK6,,,"14551738,15322764",acute myelogenous leukemia
+EWSR1-ELF5,chr22:29678378 (exon:7),chr11:34515259 (exon:3),27627705,"acute myeloid leukemia(AML), Abnormal Karyotype(karyotype abnormality)"
+FDPS-THRA,,,6586073,acute promyelocytic leukemia
+FN1-SEPTIN3,,,11322766,acute myeloid leukemia(AML)
+FNBP1-KMT2A,,,11438682,acute myelogenous leukemia
+FRK-ETV6,chr6:116289902 (exon:3),chr12:12006360 (exon:4),15611931,"leukemia, acute myeloid leukemia(AML)"
+FUS-ERG,,,,"acute myeloid leukemia, ewing tumor"
+GAS7-KMT2A,,,10706619,acute myeloid leukemia
+GMPS-KMT2A,,,11110714,acute myeloid leukemia
+GPHN-KMT2A,chr14:67389382 (exon:7),chr11:118355576 (exon:10),11289145,acute monoblastic leukemia
+H2AFY-MECOM,chr5:134696186 (exon:5),chr3:169099312 (exon:2),29666008,acute myeloid leukemia
+HIC1-ETV6,chr17:1959603 (exon:1),chr12:11905383 (exon:2),28187034,Acute Myeloid Leukemia
+HLXB9-ETV6,chr7:156803347 (exon:1),chr12:11992073 (exon:3),11454678,acute myeloid leukemias
+HOXC12-NUP98,,,12461755,acute myelogenous leukemia
+HOXC13-NUP98,,,12461755,acute myeloid leukemia
+HOXD1-ETV6,,,11782354,acute myeloid leukemia
+HOXD1-KAT6A,,,11782354,acute myeloid leukemia
+HOXD1-KMT2A,,,11782354,acute myeloid leukemia
+HOXD1-MECOM,,,11782354,acute myeloid leukemia
+HOXD1-NUP98,,,11782354,acute myelogenous leukemia
+HOXD11-NUP98,,,11106761,acute myeloid leukemia
+IRF2BP2-RARA,chr1:234745271 (exon:1),chr17:38504567 (exon:3),27193600,acute promyelocytic leukemia(APL)
+IRF2BP2-RARA,chr1:234743598 (exon:2),chr17:38504567 (exon:3),25583766,acute promyelocytic leukemia(APL)
+IRF2BP2-RARA,chr1:234743598 (exon:2),,25583766,acute promyelocytic leukemia(APL)
+KAT6A-CREBBP,,,,acute myeloid leukemia
+KAT6A-CREBBP,,,,acute myeloid leukemia
+KAT6A-CREBBP,chr8:41795086 (exon:16),chr16:3901010 (exon:2),"24798186,28097792",acute myeloid leukemia
+KAT6A-CREBBP,chr8:41786996 (exon:17),chr16:3860780 (exon:3),"16613851,17459201,19001415,11742995,9166831,10862050,11342350,15101047,8782817,15085163,22278196,24390445",acute myeloid leukemia
+KAT6A-EP300,,,,acute monoblastic leukemia
+KAT6A-EP300,chr8:41798359 (exon:15),chr22:41521867 (exon:3),"10824998,12619166",acute myelogenous leukemia
+KAT6A-HOXD1,,,11782354,acute myeloid leukemia
+KAT6A-NCOA2,,,,"acute monoblastic leukemia,acute myelomonocytic leukemia"
+KAT6A-NCOA2,,,"12676584,15607956,15607963,16613851,17694082,17697320,17805042,18794358,23149921,26766589,26795096,26854485,10459350,11342350,9731070",acute myelogenous leukemia
+KAT6B-CREBBP,,,,acute myelogenous leukemia
+KMT2A-ABI1,,,,acute myeloid leukemia
+KMT2A-ABI1,,,12527918,acute myeloid leukemia
+KMT2A-ABL1,,,9694699,acute myelomonocytic leukemia
+KMT2A-AF15Q14,chr11:118354897 (exon:9),chr15:40920808 (exon:12),12618766,"acute myeloblastic leukemia(AML), Acute lymphocytic leukemia(ALL)"
+KMT2A-AF1P,,,28582914,acute myeloid leukemia(AML)
+KMT2A-AFDN,,,,"acute monoblastic leukemia,acute myeloid leukemia"
+KMT2A-AFDN,,,8242616,acute myelogenous leukemia
+KMT2A-AFDN,chr11:118353210 (exon:8),chr6:168265230,"12067721,10886213,8703846,8814454,10719372",acute myelogenous leukemia
+KMT2A-AFX,,,9010221,acute myeloid leukemia(AML)
+KMT2A-ARHGAP26,,,,acute monoblastic leukemia
+KMT2A-ARHGAP26,,,12527918,acute myeloid leukemia
+KMT2A-ARHGAP26,chr11:118355029 (exon:9),chr5:142513531 (exon:19),15382263,acute myelogenous leukemia
+KMT2A-ARHGEF12,,,,acute monoblastic leukemia
+KMT2A-ARHGEF12,chr11:118350953 (exon:6),,10681437,acute myeloid leukemia
+KMT2A-CBL,,,,acute myeloid leukemia
+KMT2A-CBL,chr11:118350953 (exon:6),chr11:119148875 (exon:8),12696071,acute myeloid leukemia
+KMT2A-CREBBP,,,,"acute myeloid leukemia,chronic myelomonpcytic leukemia"
+KMT2A-DCPS,,,,acute myeloid leukemia
+KMT2A-ELL,,,,"acute myeloid leukemia,chronic myelomonpcytic leukemia"
+KMT2A-ELL,chr11:118352807 (exon:7),,7991593,acute myeloid leukemia
+KMT2A-ELL,,,8639852,acute myelogenous leukemia
+KMT2A-EP300,,,,acute myeloid leukemia
+KMT2A-EPS15,,,,"acute monoblastic leukemia,biphenotypic leukemia,lymphoblastic leukemia"
+KMT2A-FLNA,chr11:118355576 (exon:10),chrX:153590516 (exon:19),21900057,acute myeloblastic leukemia(AML)
+KMT2A-FNBP1,,,11438682,acute myelogenous leukemia
+KMT2A-GAS7,,,10706619,acute myeloid leukemia
+KMT2A-GMPS,,,11110714,acute myeloid leukemia
+KMT2A-HOXD1,,,11782354,acute myeloid leukemia
+KMT2A-KNL1,,,,acute myeloid leukemia
+KMT2A-KNL1,,,12618768,acute myeloid leukemia
+KMT2A-LASP1,chr11:118355690 (exon:10),chr17:37074857 (exon:7),12527918,acute myeloid leukemia
+KMT2A-ME2,chr11:118339489 (exon:2),chr18:48405431 (exon:1),26556690,acute myeloid leukemia(AML)
+KMT2A-MLLT1,,,,"acute monoblastic leukemia,acute myeloid leukemia,lymphoblastic leukemia"
+KMT2A-MLLT1,chr11:118355029 (exon:9),chr19:6270770,"10516753,12665591,27310306,8527389,11438682,12642866,12651265,12859878,14701735,15607963,15761502,16230385,16341046,16507773,17268512,17490513,17855633,18676843,19029444,19144982,19155294,19411627,19835597,20072157,20858700,21190993,21518926,21757616,21953510,22133876,22541111,22665135,22689058,22931658,23210573,23838347,23977266,24082086,24231528,24269847,24336127,24419086,24602728,24612037,24736461,25456127,25510485,25740345,26568842,26728554,27584789,27625305,28068328,28332262,28582914,25137060,8639852,11522644,16479159,16875930,28572162,11526240,11480574,15897884,11090074,8640717,10458233,17145626,18337762,25793396,15285614,21436736,9680106",acute myelogenous leukemia
+KMT2A-MLLT10,,,,"acute monoblastic leukemia,acute myeloid leukemia,lymphoblastic leukemia"
+KMT2A-MLLT10,chr11:118353210 (exon:8),chr10:21959377 (exon:9),"11135434,12127405,12482966,15258852,16921363,17868029,23284727,24635731,8839887,11477655,11423977,10637483,10554802,24692230,8643484,9305618,9878787,10997963,12393557,12810254,12859878,15262427,15355694,15851025,15968309,16213369,16341046,16956826,17074587,17459201,17927867,19711340,22745659,22931641,22931658,23210573,23564351,24602728,25510485,25740345,26477762,27510896,27859216,28582914,12750700,9694699,9616163,11756182,23138183,11187895,11986236,11480574,23211007,9071576,16383239,21351416",acute myelogenous leukemia
+KMT2A-MLLT11,,,,"acute monoblastic leukemia,acute myelomonocytic leukemia"
+KMT2A-MLLT11,chr11:118355690 (exon:10),chr1:151039694 (exon:2),2.60795E+14,"acute myeloid leukemia, acute myelogenous leukemia"
+KMT2A-MLLT3,,,,"acute monoblastic leukemia,acute myeloid leukemia"
+KMT2A-MLLT3,chr11:118355690 (exon:10),chr9:20365742,12242306,acute myelogenous leukemia
+KMT2A-MLLT6,chr11:118353210 (exon:8),chr17:36871864 (exon:9),"11522623,12527918,16105757,10485469,15854547",acute myelogenous leukemia
+KMT2A-MPFYVE,chr11:118353136 (exon:8),chr15:41101605 (exon:4),12618766,acute myeloblastic leukemia(AML)
+KMT2A-MYO18A,,,22682626,acute myelogenous leukemia
+KMT2A-NCKIPSD,chr11:118350953 (exon:6),chr3:48720445 (exon:2),"8630416,10648423","acute myeloid leukemia, acute myelogenous leukemia"
+KMT2A-NEBL,,,"20362230,22678079,23340173,25016062",acute myeloid leukemia
+KMT2A-NKD1,,,22845170,acute myeloid leukemia(AML)
+KMT2A-RARA,,,,acute myeloid leukemia
+KMT2A-SARNP,,,,acute myelomonocytic leukemia
+KMT2A-SEPTIN5,,,,acute myeloid leukemia
+KMT2A-SEPTIN5,,,9600980,acute myeloid leukemia
+KMT2A-SEPTIN6,,,,acute myelomonocytic leukemia
+KMT2A-SEPTIN9,,,,"acute monoblastic leukemia,acute myeloid leukemia"
+KNL1-KMT2A,,,12618768,acute myeloid leukemia
+LASP1-KMT2A,chr17:37074857 (exon:7),chr11:118359328 (exon:11),12527918,acute myeloid leukemia
+LINC01565-MECOM,,,9307271,"leukemia, acute myeloid leukemia(AML)"
+MECOM-HOXD1,,,11782354,acute myeloid leukemia
+MLLT10-CLP1,,,8896421,acute monoblastic leukemia
+MLLT10-KMT2A,,,8896421,acute myeloid leukemia
+MN1-ETV6,,,,acute myeloid leukemia
+MN1-ETV6,chr22:28192750 (exon:1),chr12:11992073 (exon:3),"9169030,16105979,18632758,19379599,22436304,23049943,9671410,12569362,16912223,17369854,16810199,21965128,16081688,7731705,11094079",acute myeloid leukemia
+MNX1-ETV6,,,,acute myeloid leukemia
+MNX1-ETV6,chr7:156803347 (exon:1),chr12:11992073 (exon:3),"17960638,24216708,16646086,11454678",acute myelogenous leukemia
+MYST4-CREBBP,chr10:76784715 (exon:17),chr16:3832927 (exon:6),15147375,acute myeloid leukemia(AML)
+NABP1-RARA,chr2:192548955 (exon:5),chr17:38504567 (exon:3),23287866,acute promyelocytic leukemia
+NPM1-RARA,,,,acute promyelocytic leukemia
+NSD1-NUP98,,,10397745,acute myeloid leukemia
+NSD3-NUP98,chr8:38196053 (exon:3),chr11:3765879 (exon:12),11986249,acute myelogenous leukemia
+NUMA1-RAB40B,,,9288109,acute promyelocytic leukemia
+NUP214-DEK,,,2370860,acute myeloid leukemia
+NUP214-DEK,,,9.05086E+14,acute myelogenous leukemia
+NUP98-CUX1,,,11986249,acute myelogenous leukemia
+NUP98-DDX10,,,,"acute myeloid leukemia,acute myelomonocytic leukemia"
+NUP98-DDX10,,,11986249,acute myeloid leukemia
+NUP98-FN1,,,10995009,"acute myeloid leukemia, leukemia"
+NUP98-HHEX,chr11:3756554 (exon:13),chr10:94452124 (exon:2),18388181,acute myeloid leukemia (AML)
+NUP98-HOTAIR,,,,"acute myeloid leukemia,acute myelomonocytic leukemia"
+NUP98-HOXA11,,,,"acute myeloid leukemia,chronic myeloid leukemia"
+NUP98-HOXA9,,,,"acute myeloid leukemia,acute myelomonocytic leukemia,chronic myelomonpcytic leukemia"
+NUP98-HOXA9,,,11986249,acute myeloid leukemia
+NUP98-HOXC12,,,12461755,acute myelogenous leukemia
+NUP98-HOXD1,,,11782354,acute myelogenous leukemia
+NUP98-HOXD11,,,11106761,acute myeloid leukemia
+NUP98-HOXD13,,,11986249,acute myelogenous leukemia
+NUP98-JARID1A,chr11:3752808 (exon:14),chr12:402335 (exon:27),23531517,"acute myeloid leukemia(AML), pediatric disorder, acute megakaryoblastic leukemia"
+NUP98-LOC348801,chr11:3756420 (exon:13),(exon:2),18603550,acute myeloid leukemia
+NUP98-LOC348801,chr11:3756420 (exon:13),(exon:2),18603550,acute myeloid leukemia(AML)
+NUP98-NSD1,,,11493482,acute myeloid leukemia
+NUP98-PHF23,chr11:3756554 (exon:13),chr17:7140086 (exon:4),27890253,acute myeloid leukemia(AML)
+NUP98-PHF23,chr11:3756554 (exon:13),chr17:7140086 (exon:4),27060678,acute myeloid leukemia(AML)
+NUP98-PLCG1-AS1,,,10556215,acute myelogenous leukemia
+NUP98-POU1F1,chr11:3774638 (exon:11),chr3:87311385 (exon:4),23332017,acute myelogenous leukemia
+NUP98-PRRX1,,,11986249,acute myeloid leukemia
+NUP98-PSIP1,,,,acute myeloid leukemia
+NUP98-PSIP1,chr11:3784131 (exon:9),chr9:15479685 (exon:7),"16980622,11737860,15725483,15982735","acute myeloid leukemia, leukaemia"
+NUP98-RARG,chr11:3765879 (exon:12),chr12:53609578 (exon:4),20935257,acute promyelocytic leukemia
+NUP98-TOP2B,chr11:3756554 (exon:13),chr3:25657077 (exon:26),16166424,acute myelogenous leukemia
+PDGFRB-TRIP11,,,9373237,acute myelogenous leukemia
+PGAP3-ETV6,,,12661008,acute myeloid leukemia
+PLCG1-AS1-NUP98,,,10556215,acute myelogenous leukemia
+PML-RAB40B,,,2170850,acute promyelocytic leukemia
+PML-RARA,,,,"acute myeloid leukemia,acute promyelocytic leukemia,biphenotypic leukemia,chronic myeloid leukemia"
+PML-RARA,chr15:74326146,chr17:38504568,2170850,acute promyelocytic leukemia
+PSMD2-MECOM,,,,acute myeloid leukemia
+PSMD2-PRDM16,,,,"acute myelomonocytic leukemia,chronic myelomonpcytic leukemia"
+PVT1-NSMCE2,chr8:128806778 (exon:1),chr8:126114558 (exon:3),25245984,"leukemia, acute myeloid leukemia(AML)"
+RAB40B-NUMA1,,,9288109,acute promyelocytic leukemia
+RARA-PML,,,2170850,acute promyelocytic leukemia
+RARA-PRKAR1A,,,17712046,acute promyelocytic leukemia
+RARA-STAT5B,,,10441338,acute promyelocytic leukemia
+RBM15-MAP3K9,,,23531517,"acute myeloid leukemia(AML), pediatric disorder, acute megakaryoblastic leukemia"
+RUNX1-CBFA2T3,,,,acute myeloid leukemia
+RUNX1-CBFA2T3,chr21:36265221 (exon:3),chr16:88964560 (exon:3),"12183414,12170460,12242670,17266773,23998567,24602728,11999578,22403058,16007222,19963144,9596646,21076613",acute myelogenous leukemia
+RUNX1-CLCA2,,,23998567,acute myeloid leukemia(AML)
+RUNX1-KIAA1549L,chr21:36253010 (exon:5),chr11:33628186 (exon:13),23102734,acute myeloid leukemia(AML)
+RUNX1-KIAA1549L,chr21:36231875 (exon:6),chr11:33628186 (exon:13),23102734,acute myeloid leukemia(AML)
+RUNX1-LPXN,chr21:36253010 (exon:5),chr11:58317619 (exon:6),19760607,acute myeloid leukemia(AML)
+RUNX1-MECOM,,,,"acute myeloid leukemia,chronic myeloid leukemia,myelodysplastic syndrome"
+RUNX1-MECOM,,,"8643684,10422292,24602728,24608072,15914564,16843110,8171026,8577711,8656667,16532439,16875579,17927867,23998567,8643684,8585955",acute myelogenous leukemia
+RUNX1-PRDX4,chr21:36231875 (exon:6),chrX:23689645 (exon:2),"15188461,23998567",acute myelogenous leukemia
+RUNX1-RPL22,,,"8171026,16875579,8585955,14695990,8577711,8035830,8164679,7533526",acute myeloid leukemia
+RUNX1-RPL22P1,,,,acute myeloid leukemia
+RUNX1-RUNX1T1,,,,"acute myeloid leukemia,acute myelomonocytic leukemia,acute promyelocytic leukemia,chronic myeloid leukemia"
+RUNX1-RUNX1T1,chr21:36231770 (exon:6),chr8:93029591 (exon:2),10520027,acute myeloblastic leukemia
+RUNX1-RUNX1T1,chr21:36231770 (exon:6),chr8:93029591 (exon:2),"12557226,9819405,9209371,10675041,7553157,8683993,9029185,9150886,9674748",acute myeloid leukemia
+RUNX1-RUNX1T1,,,"16227606,18553224,25612891,15735013",acute myeloid leukemia
+RUNX1-RUNX1T1,,,24288427,acute myeloid leukemia(AML)
+RUNX1-RUNX1T1,,,16321221,acute myeloid leukemia(AML)
+RUNX3-RUNX1T1,,,12691161,acute myeloid leukemia(AML)
+SARNP-KMT2A,,,15284855,acute myelomonocytic leukemia
+SEPTIN2-KMT2A,,,"19748670,19445675",acute myelogenous leukemia
+SEPTIN5-KMT2A,,,9600980,acute myeloid leukemia
+SEPTIN6-KMT2A,,,16843108,acute myelogenous leukemia
+SEPTIN9-KMT2A,,,19748670,acute myeloid leukemia
+SET-NUP214,,,,"acute myelomonocytic leukemia,lymphoblastic leukemia"
+SET-NUP214,,,"7753797,14671643,15239126,17569777,1308167,1384675,1630450,17620317",acute myelogenous leukemia
+STAT5B-RARA,,,10441338,acute promyelocytic leukemia
+STAT5B-RARA,chr17:40362319 (exon:15),chr17:38504567 (exon:3),22749039,acute promyelocytic leukemia
+TAF1-NUP214,chrX:70598084 (exon:7),chr9:134034769 (exon:18),17296573,acute myeloid leukemia(AML)
+TAF1-NUP214,chrX:70598084 (exon:7),chr9:134027122 (exon:17),17296573,acute myeloid leukemia(AML)
+TBL1XR1-RARA,chr3:176769514 (exon:5),chr17:38504567 (exon:3),24782508,acute promyelocytic leukemia(APL)
+THRA-FDPS,,,6586073,acute promyelocytic leukemia
+TOP2B-NUP98,chr3:25660000 (exon:25),chr11:3752808 (exon:14),16166424,acute myelogenous leukemia
+TRIP11-PDGFRB,,,9373237,acute myelogenous leukemia
+YTHDF2-RUNX1,,,16858696,acute myeloid leukemia
+ZBTB16-RARA,,,,acute promyelocytic leukemia
+ZBTB16-RARA,,,8387545,acute promyelocytic leukemia
+ZEB2-BCL11B,chr2:145274986 (exon:2),chr14:99724176 (exon:2),26186352,acute myeloid leukemia
+ZMYND11-MBTD1,chr10:294275 (exon:12),chr17:49302570 (exon:3),26608508,acute myeloid leukemia
