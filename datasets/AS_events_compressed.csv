@@ -1,0 +1,69 @@
+﻿event_id,cancer_name,tcga_project_id,gene_name,splice_variant_description,pubmed_id
+TMEM14C_chr6_+_A3SS_10723148:10723474:10724789:10724866:10724803:10724866,Acute Myeloid Leukemia,TCGA-LAML,TMEM14C,-,35241838
+INTS3_chr1_+_IR_153719433:153719546:153719755:153719839,Acute Myeloid Leukemia,TCGA-LAML,INTS3,-,31578525
+CSF3R_chr1_-_A3SS_36931644:36932428:36931644:36932509:36932831:36932912,Acute Myeloid Leukemia,TCGA-LAML,CSF3R,-,31462738
+KAT5_chr11_+_ES_65480393:65480529:65480819:65480974:65481064:65481138,Acute Myeloid Leukemia,TCGA-LAML,KAT5,"This variant (3), also known as beta, lacks two alternate in-frame segments, compared to variant 1, resulting in a shorter protein (isoform 3), that has a shorter N-terminus, compared to isoform 1.",30184499
+MECOM_chr3_-_A3SS_168810746:168810872:168810746:168810890:168812864:168813033,Acute Myeloid Leukemia,TCGA-LAML,MECOM,-,35709354
+MYO15B_chr17_+_IR_73587253:73587327:73587697:73587793,Acute Myeloid Leukemia,TCGA-LAML,MYO15B,-,35241838
+SYTL1_chr1_+_IR_27676880:27676976:27677285:27677443,Acute Myeloid Leukemia,TCGA-LAML,SYTL1,-,35241838
+LZTR1_chr22_+_IR_21350252:21350401:21350985:21351090,Acute Myeloid Leukemia,TCGA-LAML,LZTR1,-,33846634
+INTS3_chr1_+_ES_153719433:153719546:153719755:153719839:153721165:153721231,Acute Myeloid Leukemia,TCGA-LAML,INTS3,-,31578525
+NDUFAF6_chr8_+_ES_96044223:96044326:96046236:96046350:96047682:96047804,Acute Myeloid Leukemia,TCGA-LAML,NDUFAF6,-,31578525
+GLYR1_chr16_-_ES_4882775:4882913:4893405:4893603:4895075:4895154,Acute Myeloid Leukemia,TCGA-LAML,GLYR1,-,31578525
+BIN1_chr2_-_ES_127811481:127811588:127815049:127815177:127816587:127816731,Acute Myeloid Leukemia,TCGA-LAML,BIN1,"This variant (2) lacks an in-frame exon in the coding region, compared to variant 1. Isoform 2, also called IId and S1/R3-6, is shorter than isoform 1 and binds dynamin, synaptojanin, and clathrin.",30635567
+IRAK4_chr12_+_ES_44161906:44162075:44165023:44165168:44165983:44166165,Acute Myeloid Leukemia,TCGA-LAML,IRAK4,"This variant (3) lacks an alternate exon and uses a downstream start codon, compared to variant 1. The resulting isoform (b), also known as the short form, has a shorter N-terminus, compared to isoform a. Variants 3-10 all encode the same isoform (b).",31011167
+INTS3_chr1_+_IR_153719433:153719546:153721165:153721231,Acute Myeloid Leukemia,TCGA-LAML,INTS3,-,31578525
+PHF21A_chr11_-_ES_45954117:45955776:45957187:45957290:45958045:45958120,Acute Myeloid Leukemia,TCGA-LAML,PHF21A,-,31578525
+MED24_chr17_-_ES_38189598:38189709:38191169:38191225:38191370:38191602,Acute Myeloid Leukemia,TCGA-LAML,MED24,-,35303483
+KMT2D_chr12_-_ES_49416373:49416658:49417836:49417883:49418361:49418407,Acute Myeloid Leukemia,TCGA-LAML,KMT2D,-,35303483
+IDH3G_chrX_-_ES_153056019:153056030:153056265:153056306:153059701:153059811,Acute Myeloid Leukemia,TCGA-LAML,IDH3G,-,32358566
+IDH3G_chrX_-_ES_153051810:153051904:153052256:153052402:153052506:153052608,Acute Myeloid Leukemia,TCGA-LAML,IDH3G,-,32358566
+CERS4_chr19_+_ES_8321833:8321961:8322763:8322869:8326572:8326728,Acute Myeloid Leukemia,TCGA-LAML,CERS4,-,25920683
+ABI2_chr2_+_ES_204244931:204245107:204246912:204246929:204255769:204255866,Acute Myeloid Leukemia,TCGA-LAML,ABI2,"This variant (3) lacks an alternate in-frame exon in both the 5' and central coding regions, but includes an additional in-frame exon in the 3' coding region, compared to variant 1. The encoded isoform (c) is shorter than isoform a.",25920683
+LRRC27_chr10_+_ES_134151069:134151199:134155717:134155775:134158002:134158154,Acute Myeloid Leukemia,TCGA-LAML,LRRC27,-,25920683
+CASP1_chr11_-_ES_104901892:104902007:104903791:104903853:104904935:104905201,Acute Myeloid Leukemia,TCGA-LAML,CASP1,-,25920683
+SSH1_chr12_-_ES_109212025:109212089:109217034:109217137:109246414:109246454,Acute Myeloid Leukemia,TCGA-LAML,SSH1,-,25920683
+THEM4_chr1_-_ES_151861690:151861849:151862459:151862690:151867484:151867670,Acute Myeloid Leukemia,TCGA-LAML,THEM4,-,25920683
+TRPT1_chr11_-_ES_63991271:63991439:63991572:63991682:63991757:63991813,Acute Myeloid Leukemia,TCGA-LAML,TRPT1,-,31408619
+INTS3_chr1_+_ES_153733303:153733394:153733496:153733585:153734046:153734152,Acute Myeloid Leukemia,TCGA-LAML,INTS3,This variant (1) encodes the longer transcript. Variants 1 and 2 both encode the same protein.,31408619
+IKZF1_chr7_+_ES_50367234:50367353:50444231:50444491:50450238:50450405,Acute Myeloid Leukemia,TCGA-LAML,IKZF1,-,25920683
+EZH2_chr7_-_ES_148515129:148515209:148516070:148516151:148516688:148516779,Acute Myeloid Leukemia,TCGA-LAML,EZH2,-,31408619
+ATF2_chr2_-_ES_175982979:175983097:175986172:175986268:175994866:175994935,Acute Myeloid Leukemia,TCGA-LAML,ATF2,"=""This variant (5) lacks an internal exon, and uses an alternate acceptor splice site at the 3' terminal exon compared to variant 1. This results in translation initiation from another start site, and a shorter isoform (4) with distinct N- and C- termini compared to isoform 1.""",31408619
+SLC35A1_chr6_+_ES_88216100:88216166:88218138:88218314:88218759:88218893,Acute Myeloid Leukemia,TCGA-LAML,SLC35A1,This variant (2) lacks an alternate in-frame exon compared to variant 1. The resulting isoform (b) has the same N- and C-termini but is shorter compared to isoform a.,25920683
+LEF1_chr4_-_ES_109000648:109000770:109002742:109002825:109004512:109004602,Acute Myeloid Leukemia,TCGA-LAML,LEF1,-,31408619
+HDAC7_chr12_-_ES_48189370:48189550:48189689:48189799:48189990:48190081,Acute Myeloid Leukemia,TCGA-LAML,HDAC7,"This variant (4) lacks an alternate in-frame exon in the mid-coding region, compared to variant 1. The resulting isoform (d) has the same N- and C-termini but is shorter than isoform a.",31408619
+ZMYM2_chr13_+_ES_20534098:20534166:20544165:20544211:20567203:20568059,Acute Myeloid Leukemia,TCGA-LAML,ZMYM2,-,25920683
+ACAD8_chr11_+_ES_134126442:134126542:134126982:134127151:134128409:134128518,Acute Myeloid Leukemia,TCGA-LAML,ACAD8,-,24498085
+GUSB_chr7_-_ES_65439513:65439691:65439906:65440058:65441002:65441189,Acute Myeloid Leukemia,TCGA-LAML,GUSB,-,24498085
+HMGCR_chr5_+_ES_74650328:74650522:74650881:74651039:74651190:74651347,Acute Myeloid Leukemia,TCGA-LAML,HMGCR,"This variant (2) lacks an in-frame coding exon in the middle region, as compared to variant 1. The resulting isoform (2) is shorter than isoform 1.",24498085
+MR1_chr1_+_ES_181019147:181019422:181021371:181021646:181022709:181022813,Acute Myeloid Leukemia,TCGA-LAML,MR1,-,24498085
+PPHLN1_chr12_+_ES_42729685:42729776:42745687:42745851:42748963:42749024,Acute Myeloid Leukemia,TCGA-LAML,PPHLN1,-,24498085
+KARS_chr16_-_ES_75675462:75675621:75678181:75678360:75681476:75681563,Acute Myeloid Leukemia,TCGA-LAML,KARS,-,24498085
+RIPK2_chr8_+_ES_90769975:90770461:90775057:90775210:90777569:90777724,Acute Myeloid Leukemia,TCGA-LAML,RIPK2,-,24498085
+CTNNB1_chr3_+_A3SS_41280625:41280845:41281151:41281934:41281310:41281934,Acute Myeloid Leukemia,TCGA-LAML,CTNNB1,-,24498085
+CHCHD7_chr8_+_A3SS_57127157:57127226:57128948:57129090:57128992:57129090,Acute Myeloid Leukemia,TCGA-LAML,CHCHD7,-,24498085
+PICALM_chr11_-_A3SS_85692915:85693031:85692915:85693046:85694909:85695016,Acute Myeloid Leukemia,TCGA-LAML,PICALM,-,24498085
+AIMP2_chr7_+_ES_6048876:6049129:6054777:6054983:6057445:6057676,Acute Myeloid Leukemia,TCGA-LAML,AIMP2,-,33128014
+CD33_chr19_+_ES_51728354:51728411:51728474:51728854:51729059:51729337,Acute Myeloid Leukemia,TCGA-LAML,CD33,"This variant (2) lacks an alternate in-frame exon in the 5' coding region, compared to variant 1, resulting in a shorter pro isoform 1.",27248327
+IL24_chr1_+_ES_207073640:207073702:207074839:207074997:207075343:207075417,Acute Myeloid Leukemia,TCGA-LAML,IL24,"=""This variant (4, also known as IL-24 delE5) uses an alternate in-frame splice site in the 5' coding region, and lacks an alternate in-frame exon in the central coding region, compared to variant 1, resulting in an isoform (4) that is shorter than isoform 1.""",21282359
+ITGA5_chr12_-_ES_54803016:54803136:54803269:54803381:54805618:54805748:54812765:54813244,Acute Myeloid Leukemia,TCGA-LAML,ITGA5,-,23686445
+NPM1_chr5_+_ES_170827157:170827214:170827843:170827929:170832306:170832407,Acute Myeloid Leukemia,TCGA-LAML,NPM1,"This variant (2) lacks an alternate in-frame exon, compared to variant 1, resulting in a shorter protein (isoform 2) that lacks an internal segment, compared to isoform 1.",30126426
+INTS13_chr12_-_Complex,Acute Myeloid Leukemia,TCGA-LAML,INTS13,-,24498085
+ANPEP_chr15_-_A5SS_90347722:90347848:90348177:90348448:90348309:90348448,Acute Myeloid Leukemia,TCGA-LAML,ANPEP,-,24284058
+IRF8_chr16_+_Complex,Acute Myeloid Leukemia,TCGA-LAML,IRF8,"A cryptic 1st exon originating from within the normal intron 1 region was detected, while exon 1 sequence was missing.",23967110
+NPM1_chr5_+_Complex,Acute Myeloid Leukemia,TCGA-LAML,NPM1,"This variant (3) utilizes an alternate3'-terminal exon, compared to variant 1, resulting in a shorterprotein (isoform 3) with a distinct C-terminus.",29221119
+NPM1_chr5_+_Complex,Acute Myeloid Leukemia,TCGA-LAML,NPM1,"This variant (3) utilizes an alternate 3'-terminal exon, compared to variant 1, resulting in a shorter protein (isoform 3) with a distinct C-terminus.",30126426
+ANPEP_chr15_-_ES_90347120:90347233:90347484:90347638:90347722:90347848,Acute Myeloid Leukemia,TCGA-LAML,ANPEP,-,24284058
+RUNX1_chr21_-_ES_36171598:36171759:36206707:36206898:36231771:36231875,Acute Myeloid Leukemia,TCGA-LAML,RUNX1,-,19151769
+CD96_chr3_+_ES_111263893:111264249:111296349:111296396:111297874:111298081,Acute Myeloid Leukemia,TCGA-LAML,CD96,"This variant (2) lacks an alternate in-frame exon, compared to variant 1, resulting in a shorter protein (isoform 2), compared to isoform 1.",19056733
+BIRC5_chr17_+_ES_76212745:76212862:76218909:76219073:76219546:76221717,Acute Myeloid Leukemia,TCGA-LAML,BIRC5,"This variant (3), also known as survivin-2B, includes an alternate in-frame segment, compared to variant 1, resulting in a longer protein (isoform 3) that has a distinct sequence when it is compared to isoform 1.",16619249
+BIRC5_chr17_+_ES_76210761:76210870:76212047:76212115:76212745:76212862,Acute Myeloid Leukemia,TCGA-LAML,BIRC5,This variant (1) represents the most frequently occurring transcript and it encodes isoform 1.,16619249
+GFI1B_chr9_+_ES_135863584:135863855:135864448:135864585:135865129:135865294,Acute Myeloid Leukemia,TCGA-LAML,GFI1B,-,19360458
+BCOR_chrX_-_A3SS_39922861:39923103:39922861:39923205:39923589:39923852,Acute Myeloid Leukemia,TCGA-LAML,BCOR,-,35303483
+ANPEP_chr15_-_ES_90347722:90347848:90348309:90348448:90348552:90348694,Acute Myeloid Leukemia,TCGA-LAML,ANPEP,-,24284058
+P2RX7_chr12_+_IR_121614950:121615015:121615100:121615249,Acute Myeloid Leukemia,TCGA-LAML,P2RX7,-,33071281
+BCL2L1_chr20_-_A5SS_30252255:30253889:30309458:30310151:30309647:30310151,Acute Myeloid Leukemia,TCGA-LAML,BCL2L1,"This variant (2) uses an alternate in-frame splice site, in the central coding region, compared to variant 1. The encoded isoform (Bcl-X(S), also known as Bcl-xS) is shorter than isoform Bcl-X(L).",30635567
+CD33_chr19_+_ES_51728354:51728411:51728474:51728854:51729059:51729337,Acute Myeloid Leukemia,TCGA-LAML,CD33,-,28644774
+MAP3K7_chr6_-_A3SS_91269795:91269933:91269795:91269953:91271341:91271386,Acute Myeloid Leukemia,TCGA-LAML,MAP3K7,-,35241838
+MTERFD3_chr12_-_IR_107378893:107379003:107380747:107380944,Acute Myeloid Leukemia,TCGA-LAML,MTERFD3,-,35241838
+ORAI2_chr7_+_A3SS_102074017:102074108:102076672:102076780:102076677:102076780,Acute Myeloid Leukemia,TCGA-LAML,ORAI2,-,35241838
